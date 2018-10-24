@@ -1,0 +1,9 @@
+#container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+}
+#book {
+    margin-right: 30px;
+}
